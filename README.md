@@ -22,25 +22,33 @@ This project has following features.
 <h2>Output</h2>
 
 Opening Screen
+
 ![1](https://user-images.githubusercontent.com/72408657/130641993-de770c59-3c85-492a-b49b-3e2bc8cbf0f9.png)
 
-Login Screen
+Login Screen 
+
 ![2](https://user-images.githubusercontent.com/72408657/130641999-7d78dc1a-d300-4679-8b25-cf087babeb52.png)
 
-Employee Details Screen
+Employee Details
+
 ![3](https://user-images.githubusercontent.com/72408657/130642011-d234790b-4545-428a-8350-a66788d83159.png)
 
-Add Employee Details Screen
+Add Employee Details
+
 ![4](https://user-images.githubusercontent.com/72408657/130642024-98f4cb19-71d2-49cb-9793-6e3e25558894.png)
 
-Employee Id Screen
+Employee Id
+
 ![5](https://user-images.githubusercontent.com/72408657/130642042-8a54c916-0502-412c-adb5-b55ed55d0c16.png)
 
-Update Employee Details Screen
+Update Employee Details 
+
 ![6](https://user-images.githubusercontent.com/72408657/130642053-7887d3e7-7bbd-49ff-9b67-48752398413b.png)
 
-Show Added Details Screen
+Show Added Details
+
 ![7](https://user-images.githubusercontent.com/72408657/130642060-cf39bd31-bbdc-4984-868e-6283d4fe85f3.png)
 
-Remove Employee details Screen
+Remove Employee details 
+
 ![8](https://user-images.githubusercontent.com/72408657/130642075-8155b39c-2ecc-4c21-92e2-df6f71498e65.png)
