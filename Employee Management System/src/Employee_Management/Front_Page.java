@@ -47,9 +47,9 @@ class Front_Page implements ActionListener{
         
    
 
-        JLabel lid=new JLabel("EMPLOYEE MANAGEMENT SYSTEM - YADNESH KALAL");
+        JLabel lid=new JLabel("EMPLOYEE MANAGEMENT SYSTEM");
         lid.setBounds(80,30,1500,100);
-        lid.setFont(new Font("serif",Font.PLAIN,40));
+        lid.setFont(new Font("serif",Font.PLAIN,60));
         lid.setForeground(Color.red);
         id.add(lid);
        
