@@ -14,6 +14,14 @@ This project has following features.
   <li>Update Employee using Employee Id</li>
   <li>Remove Employee using Employee Id</li>
 </ol>
+
+<h2> Application </h2> 
+<ul>
+  <li> User friendly </li>
+  <li> Getting information easily </li>
+  <li> Easy to stored employee information </li>
+ </ul>
+ 
 <h2> Build With </h2> 
 <ul>
   <li> Core Java Programming Language </li>
